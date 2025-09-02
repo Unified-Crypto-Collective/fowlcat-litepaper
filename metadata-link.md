@@ -1,6 +1,8 @@
-# Official $FOWLCAT Metadata JSON  
+# Official $FOWLCAT Metadata JSON
 
-- Mint: EtKn4MuGbztsSYn1Q94DNtxXRLGGg7wdAU67JGxVkH4p
-- JSON Metadata: https://ipfs.io/ipfs/QmUVeZDtQX55GqRDxn1a6QPWSQLJArq968B4dqsVSP8ECv
-- Image: https://arweave.net/jkGwe8Zt_kfCVeXdGcJcxIkJYpw5z2rSfV-lgDl9iO8
-This link hosts the immutable metadata for the $FOWLCAT token on Solana, formatted according to the Metaplex Fungible Token Metadata standard.  
+- Mint: `EtKn4MuGbztsSYn1Q94DNtxXRLGGg7wdAU67JGxVkH4p`
+- Metadata (Arweave): https://arweave.net/xPUsQL3NZfjPcDq8F0B7uxmdW3E0wJW1yOnielLO3fs
+- Fast Gateway (Irys): https://node1.irys.xyz/xPUsQL3NZfjPcDq8F0B7uxmdW3E0wJW1yOnielLO3fs
+- Logo (Arweave): https://arweave.net/jkGwe8Zt_kfCVeXdGcJcxIkJYpw5z2rSfV-lgDl9iO8
+
+Immutable metadata for the $FOWLCAT token (Metaplex FT format).
